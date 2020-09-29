@@ -1,0 +1,14 @@
+# Hungary - Moravia
+vassal = {
+	first = HUN
+	second = MVA
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+union = {
+	first = HUN
+	second = CRO
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

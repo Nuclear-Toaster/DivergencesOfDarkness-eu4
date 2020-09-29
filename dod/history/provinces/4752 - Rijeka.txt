@@ -1,19 +1,17 @@
-#139 - Hum
+#4752 - Rijeka
 
-owner = BOS
-controller = BOS
-culture = bosnian
+owner = CRO
+controller = CRO
+culture = croatian
 religion = catholic
-capital = "Mostar"	# Unofficial capital of Herzegovina
-trade_goods = wool
+capital = "Rijeka"
+trade_goods = cloth
 hre = no
-base_tax = 3 
-base_production = 3
+base_tax = 4
+base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = BOS
-add_core = HRZ
-add_core = SER
+add_core = CRO
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -23,4 +21,7 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 1
+add_core = DAL
 

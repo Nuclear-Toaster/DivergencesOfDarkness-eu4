@@ -1,19 +1,23 @@
-#139 - Hum
+#4237 - Olomouc
 
-owner = BOS
-controller = BOS
-culture = bosnian
-religion = catholic
-capital = "Mostar"	# Unofficial capital of Herzegovina
-trade_goods = wool
-hre = no
-base_tax = 3 
+latent_trade_goods = {
+	coal
+}
+
+owner = MVA
+controller = MVA
+capital = "Olmütz"
+culture = czech
+religion = hussite
+trade_goods = grain 
+hre = yes
+base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = BOS
-add_core = HRZ
-add_core = SER
+add_core = BOH
+add_core = MVA
+fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

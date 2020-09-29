@@ -1,19 +1,18 @@
-#139 - Hum
+#265 - Brno
 
-owner = BOS
-controller = BOS
-culture = bosnian
-religion = catholic
-capital = "Mostar"	# Unofficial capital of Herzegovina
-trade_goods = wool
-hre = no
-base_tax = 3 
+owner = MVA
+controller = MVA
+add_core = MVA
+capital = "Brünn"
+culture = czech
+religion = hussite
+trade_goods = wine 
+hre = yes
+base_tax = 3
 base_production = 3
 base_manpower = 2
-is_city = yes
-add_core = BOS
-add_core = HRZ
-add_core = SER
+#is_city = yes
+add_core = BOH
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
