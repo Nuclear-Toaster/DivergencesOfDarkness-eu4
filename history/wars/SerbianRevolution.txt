@@ -1,0 +1,17 @@
+name = "Balkan Crisis"
+
+war_goal = {
+	type = take_core
+	casus_belli = cb_core
+	province = 4174 # Durres
+}
+
+1444.1.1 = {
+	add_attacker = SER
+}
+
+1444.1.1 = {
+	add_defender = ALB
+	add_defender = BNB
+	add_defender = BUL
+}

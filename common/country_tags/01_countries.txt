@@ -1,0 +1,4 @@
+#New tags
+LTE = countries/LatinEmpire.txt
+BNB = countries/BanateOfBosnia.txt
+CVV = countries/ChingissidVoivodes.txt

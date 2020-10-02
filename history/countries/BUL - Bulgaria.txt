@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 4703
+
+1444.1.1 = {
+	monarch = {
+		name = "Noble Council"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
